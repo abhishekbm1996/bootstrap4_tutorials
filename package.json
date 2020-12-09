@@ -1,0 +1,23 @@
+{
+  "name": "exercise_2",
+  "version": "1.0.0",
+  "description": "Test to initiate nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite" : "lite-server"
+  },
+  "keywords": [
+    "test",
+    "not",
+    "nodejs",
+    "but",
+    "html"
+  ],
+  "author": "Abhishek BM",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
